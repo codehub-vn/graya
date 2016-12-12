@@ -1,0 +1,10 @@
+/*For IE 9 */
+
+.tagcloud { text-align:justify\9; }
+#nav-side-top,#nav-side-middle,#nav-side-bottom,
+#mobile-panel-center,#mobile-panel-left,#mobile-panel-right,
+.fullwrap-video video,.blog-bi-video-wrap video { display:none; } 
+.fullwrap-half .fullwrap-video .video-cover { top: 0; width: 100%; height: 600px!important; min-height: none; }
+.form-submit:before, .btnarea:before, .submit-wrap:before { opacity: 0; }
+.form-submit:hover::before,.btnarea:hover::before, .submit-wrap:hover:before { opacity: 1; }
+.gallery-video-vover { height: 440px; }

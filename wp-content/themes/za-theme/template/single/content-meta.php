@@ -1,0 +1,1 @@
+<?php ux_interface_blog_show_meta('date', 'single'); ?> <?php ux_interface_blog_show_meta('length', 'single'); ?> <?php ux_interface_blog_show_meta('category', 'single'); ?> <?php ux_interface_blog_show_meta('tag', 'single'); ?> <?php ux_interface_blog_show_meta('author', 'single'); ?> <?php ux_interface_blog_show_meta('comments', 'single'); edit_post_link('(Edit)'); ?>

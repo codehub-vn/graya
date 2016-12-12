@@ -1,0 +1,1 @@
+<h1 class="product_title entry-title"><?php the_title(); ?></h1>

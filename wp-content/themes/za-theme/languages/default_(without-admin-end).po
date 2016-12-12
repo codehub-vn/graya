@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ZA(Front end)\n"
+"POT-Creation-Date: 2015-08-10 16:05+0800\n"
+"PO-Revision-Date: 2015-08-10 16:05+0800\n"
+"Last-Translator: uiueux <uiueux@gmail.com>\n"
+"Language-Team: uiueux <uiueux@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: /Users/fanpeng/work/wordpress/za/za-po-frontend\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: 404.php:11
+msgid "STAY CALM AND DON'T FREAK OUT!"
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"Unfortunately, the page you are looking for is unavailable. Trying visit our"
+msgstr ""
+
+#: 404.php:13
+msgid "Homepage"
+msgstr ""
+
+#: 404.php:13
+msgid " and starting from there."
+msgstr ""
+
+#: comments.php:15
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:27
+msgid "Name"
+msgstr ""
+
+#: comments.php:28
+msgid "Email"
+msgstr ""
+
+#: comments.php:30
+msgid "Leave your message here"
+msgstr ""
+
+#: comments.php:32
+msgid "LEAVE A COMMNET"
+msgstr ""
+
+#: comments.php:34
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: comments.php:49
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: comments.php:51
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:52
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:55
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:67
+msgid "0 Response"
+msgstr ""
+
+#: comments.php:67
+msgid "1 Response"
+msgstr ""
+
+#: comments.php:67
+msgid "% Responses"
+msgstr ""
+
+#: functions/interface/interface-functions.php:40
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions/interface/interface-functions.php:360
+#: functions/interface/interface-functions.php:390
+#: functions/interface/interface-functions.php:418
+#: functions/interface/interface-functions.php:434
+msgid "IN"
+msgstr ""
+
+#: functions/interface/interface-functions.php:526
+#: template/page/content-blog.php:40
+msgid "Previous"
+msgstr ""
+
+#: functions/interface/interface-functions.php:527
+#: template/page/content-blog.php:41
+msgid "Next"
+msgstr ""
+
+#: functions/interface/interface-functions.php:600
+msgid "WPML not installed and activated."
+msgstr ""
+
+#: functions/interface/interface-functions.php:695
+msgid "Load More"
+msgstr ""
+
+#: functions/interface/interface-functions.php:700
+msgid "Sorry, no result."
+msgstr ""
+
+#: functions/interface/interface-functions.php:738
+msgid "PREMIUM"
+msgstr ""
+
+#: functions/interface/interface-functions.php:845
+#: functions/interface/interface-functions.php:847
+#: functions/interface/interface-functions.php:849
+#: functions/interface/interface-functions.php:851
+#: functions/interface/interface-functions.php:858
+#: functions/interface/interface-functions.php:860
+#: functions/interface/interface-functions.php:862
+#: functions/interface/interface-functions.php:864
+msgid " MIN READ"
+msgstr ""
+
+#: functions/interface/interface-functions.php:873
+#: functions/interface/interface-functions.php:877
+msgid "IN: "
+msgstr ""
+
+#: functions/interface/interface-functions.php:885
+#: functions/interface/interface-functions.php:887
+#: functions/interface/interface-functions.php:889
+msgid "TAGS: "
+msgstr ""
+
+#: functions/interface/interface-functions.php:895
+#: functions/interface/interface-functions.php:1052
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions/interface/interface-functions.php:905
+#: functions/interface/interface-functions.php:907
+#: functions/interface/interface-functions.php:909
+msgid "BY: "
+msgstr ""
+
+#: functions/interface/interface-functions.php:917
+#: functions/interface/interface-functions.php:920
+#: functions/interface/interface-functions.php:923
+msgid "0 COMMENT"
+msgstr ""
+
+#: functions/interface/interface-functions.php:917
+#: functions/interface/interface-functions.php:920
+#: functions/interface/interface-functions.php:923
+msgid "1 COMMENT"
+msgstr ""
+
+#: functions/interface/interface-functions.php:917
+#: functions/interface/interface-functions.php:920
+#: functions/interface/interface-functions.php:923
+msgid "% COMMENTS"
+msgstr ""
+
+#: functions/interface/interface-functions.php:930
+msgid "Continue Reading"
+msgstr ""
+
+#: functions/interface/interface-template.php:253
+msgid "SHARE"
+msgstr ""
+
+#: functions/theme/theme-post.php:112
+msgid " ago"
+msgstr ""
+
+#: functions/theme/theme-post.php:113
+msgid "Reply"
+msgstr ""
+
+#: functions/theme/theme-post.php:123
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: searchform.php:1 template/global/header-onhead.php:85
+msgid "Search"
+msgstr ""
+
+#: template/archive/loop-item-audio.php:27 template/single/format-audio.php:15
+msgid "Artist:"
+msgstr ""
+
+#: template/archive/loop.php:29
+msgid "Sorry, no articles"
+msgstr ""
+
+#: template/global/content-titlewrap.php:7
+msgid "Daily Archives"
+msgstr ""
+
+#: template/global/content-titlewrap.php:10
+msgid "Monthly Archives"
+msgstr ""
+
+#: template/global/content-titlewrap.php:13
+msgid "Yearly Archives"
+msgstr ""
+
+#: template/global/content-titlewrap.php:16
+msgid "Latest Posts"
+msgstr ""
+
+#: template/global/content-titlewrap.php:17
+msgid "Home"
+msgstr ""
+
+#: template/global/content-titlewrap.php:22
+msgid "Tag"
+msgstr ""
+
+#: template/global/content-titlewrap.php:25
+msgid "Author"
+msgstr ""
+
+#: template/global/content-titlewrap.php:28
+msgid "Category"
+msgstr ""
+
+#: template/global/content-titlewrap.php:32
+msgid "Archives"
+msgstr ""
+
+#: template/global/content-titlewrap.php:34
+msgid "Search Results for"
+msgstr ""
+
+#: template/global/header-onhead.php:56
+msgid "Find us on"
+msgstr ""
+
+#: template/global/search-popup.php:1
+msgid "Enter a Key Word Here"
+msgstr ""
+
+#: template/page/content-archive.php:3
+msgid "last 10 Posts"
+msgstr ""
+
+#: template/page/content-archive.php:7
+msgid "Archives by Month"
+msgstr ""
+
+#: template/page/content-archive.php:12
+msgid "Archives by Category"
+msgstr ""
+
+#: template/single/content-navi.php:51
+msgid "NEXT"
+msgstr ""
+
+#: template/single/content-navi.php:53
+msgid "PREVIOUS"
+msgstr ""
+
+#: template/single/content-related.php:66
+msgid "YOU MIGHT ALSO LIKE"
+msgstr ""
+
+#: template/single/type-jobs_item.php:10
+msgid "Location:"
+msgstr ""
+
+#: template/single/type-jobs_item.php:14
+msgid "Number:"
+msgstr ""
+
+#: template/single/type-team_item.php:22
+msgid "POSITION"
+msgstr ""
+
+#: template/single/type-team_item.php:28
+msgid "EMAIL"
+msgstr ""
+
+#: template/single/type-team_item.php:34
+msgid "PHONE NUMBER"
+msgstr ""
